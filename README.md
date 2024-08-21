@@ -1,31 +1,41 @@
-### Hey, my name is Rodrigo Fernandes 👋
+### Hey, I'm Rodrigo Fernandes 👋
   ##
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=435&height=60&lines=Mobile+Developer;Android+%7C+Kotlin" alt="Typing SVG" /></a></p>
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
 
 <div align="center">
   <a href="https://github.com/rodrigoofm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoofm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoofm&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoofm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoofm&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
   
+
+## 🛠 &nbsp;Tech Stack
   
-### Technologies ⚙️
-  ##
-  
-<div style="display: inline_block">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Find me! 🔎
   ##
   
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-fernandes-melero-197617108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/rodrigoofm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
